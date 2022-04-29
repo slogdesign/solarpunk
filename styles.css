@@ -1206,6 +1206,11 @@ ul.icons li .icon {
 
   #banner {
 	padding: 4em 0;
+	background-position: center, center;
+	background-repeat: repeat, no-repeat;
+	background-size: cover, cover;
+	align-content: center;
+	text-align: center;
   }
 
   #banner h2 {
@@ -1239,6 +1244,7 @@ ul.icons li .icon {
 	padding: 0;
 	margin-top: 200px;
   }
+  
 
   /* Footer */
 
